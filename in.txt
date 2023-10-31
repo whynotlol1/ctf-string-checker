@@ -1,0 +1,5 @@
+here you need to enter the strings you would like to check
+format:
+string1 
+string2
+string3
