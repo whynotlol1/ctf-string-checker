@@ -3,10 +3,10 @@ import __data__
 
 
 def main():
-    with open("checker/in.txt", "r") as f:
+    with open("in.txt", "r") as f:
         strings = f.readlines()
 
-    with open("checker/key.txt", "r") as f:
+    with open("key.txt", "r") as f:
         keyword = f.read()
 
     if len(strings) == 0:
