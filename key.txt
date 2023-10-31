@@ -1,0 +1,2 @@
+here you enter the flag format or something else you would like to search for
+e.g. picoCTF{
